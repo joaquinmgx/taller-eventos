@@ -1,3 +1,3 @@
-function mostrarAlerta(){
-    alert('Hola!')
+function Saludo() {
+    alert('Hola!');
 }
